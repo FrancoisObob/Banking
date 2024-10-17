@@ -1,5 +1,4 @@
 # Banking
-SwiftUI App Architecture: Design Patterns and Best Practices
 
 A sample iOS banking app showing how to architect SwiftUI apps.
 
