@@ -22,6 +22,10 @@ struct AccountsView: View {
 				NewAccountView()
 			}
 		}
+        .onChange(of: stateController.accounts) { oldValue, newValue in
+            print("Accounts changed from \(oldValue.map(\.name)) to \(newValue.map(\.name))")
+            stateController.saveAccounts()
+        }
     }
 }
 

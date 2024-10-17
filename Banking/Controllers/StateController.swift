@@ -34,4 +34,8 @@ import Foundation
 		accounts[index].add(transaction)
 		storageController.save(accounts)
 	}
+
+    func saveAccounts() {
+        storageController.save(accounts)
+    }
 }

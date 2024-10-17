@@ -50,7 +50,7 @@ private struct Content: View {
 	}
 }
 
-#Preview {
+#Preview("Content") {
 	@Previewable @State var name = ""
 	@Previewable @State var kind = Account.Kind.checking
 	NavigationStack {
