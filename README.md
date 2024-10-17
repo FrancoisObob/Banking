@@ -1,4 +1,12 @@
 # Banking
 SwiftUI App Architecture: Design Patterns and Best Practices
 
-<img width="1071" alt="Screenshot 2024-10-17 at 12 39 34 PM" src="https://github.com/user-attachments/assets/e12ab4a8-50d7-47b6-990f-d5044195dfc8">
+A sample iOS banking app showing how to architect SwiftUI apps.
+
+<img width="341" alt="github image" src="https://matteomanferdini.com/wp-content/uploads/2024/09/final-screens.png">
+
+## How to use the code
+
+The guide explaining the code in detail can be found [here](https://matteomanferdini.com/swiftui-app-architecture/).
+
+
